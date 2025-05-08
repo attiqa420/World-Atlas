@@ -1,0 +1,22 @@
+[
+    {"id": 1, "country": "Japan", "capital": "Tokyo", "population": 125800000,
+     "fact": "Japan has more than 5 million vending machines."},
+    {"id": 2, "country": "Brazil", "capital": "Brasília", "population": 214300000,
+     "fact": "Brazil is home to the world's largest rainforest, the Amazon."},
+    {"id": 3, "country": "Canada", "capital": "Ottawa", "population": 38930000,
+     "fact": "Canada has the longest coastline of any country in the world."},
+    {"id": 4, "country": "India", "capital": "New Delhi", "population": 1428000000,
+     "fact": "India is the world’s largest democracy."},
+    {"id": 5, "country": "Russia", "capital": "Moscow", "population": 144400000,
+     "fact": "Russia spans 11 time zones."},
+    {"id": 6, "country": "Australia", "capital": "Canberra", "population": 26000000,
+     "fact": "Australia is home to more kangaroos than people."},
+    {"id": 7, "country": "Egypt", "capital": "Cairo", "population": 111800000,
+     "fact": "The Great Pyramid of Giza is the only remaining ancient wonder of the world."},
+    {"id": 8, "country": "Norway", "capital": "Oslo", "population": 5400000,
+     "fact": "Norway introduced salmon sushi to the Japanese in the 1980s."},
+    {"id": 9, "country": "South Africa", "capital": "Pretoria (administrative)", "population": 60400000,
+     "fact": "South Africa has three capital cities: Pretoria, Cape Town, and Bloemfontein."},
+    {"id": 10, "country": "Italy", "capital": "Rome", "population": 58940000,
+     "fact": "Italy has more UNESCO World Heritage sites than any other country."}
+]

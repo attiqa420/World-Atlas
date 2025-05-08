@@ -1,0 +1,40 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background-color: #1e1e2f;
+    color: #fff;
+  }
+  
+  .logo h1 {
+    font-size: 24px;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .navbar .nav-list {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+  }
+  
+  .nav-list li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-list li a:hover,
+  .nav-list li a.active {
+    color: #00d8ff; /* Highlight active/hover links */
+  }
+  
